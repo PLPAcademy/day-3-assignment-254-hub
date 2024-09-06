@@ -69,7 +69,7 @@ B) By restarting your computer
 C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
 Answer;
-) By running python --version
+A By running python --version
 
 
 What command is used to install pip on macOS and Linux?
